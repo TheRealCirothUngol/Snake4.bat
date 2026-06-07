@@ -8,7 +8,7 @@ batch techniques and is actually a highly playable game.
 The world would be a sadder place if this were not available online somewhere.
 
 on WaybackMachine
-https://web.archive.org/web/20170603211548/https://www.dostips.com/
+https://web.archive.org/web/20170606204830if_/http://www.dostips.com/forum/viewtopic.php?f=3&t=4741&sid=4c41f50fdc0ef6d185333ff7ab2a4fd6
 
     SNAKE.BAT - A pure native Windows batch implementation of the classic game
     ------------------------------------------------------------------------------
